@@ -1,0 +1,11 @@
+ {
+     "sites":[
+     { "key": "影视",
+      "name": "猫TV直播",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/api/moyulive.js",
+      "ext": "http://pan.aa53.cn/down.php/f9d80228a0905de3aac9673d92259297.txt",
+      "jar": "http://pan.aa53.cn/down.php/b50695aec668bc2adac3b723ace342ba.jar"
+      }
+      ]
+    }
