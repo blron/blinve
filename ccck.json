@@ -1,23 +1,89 @@
-{"urls": [
-{"name": "菜菜🥬影视","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/ys.json"},
-{"name": "菜菜🥬采集","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/cj.json"},
-{"name": "菜菜🥬网盘","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/wp.json"},
-{"name": "PG佬🥬网盘","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/jsm.json"},
-{"name": "乐哥👙短剧","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json"}，
-{"name": "菜菜十八","url": "https://gitee.com/caicai529180405/caicai/raw/master/cai/ss.json"},
-{"name": "乐哥👙伦理","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/lilun.json"},
-{"url": "https://kjsc0310.github.io/tvy/s2.json","name": "👙虞姬带飞"},
-{"url": "https://fastly.jsdelivr.net/gh/qirenzhidao/tvbox18@main/adult.json","name": "👙豆豆"},
-{"url": "https://jsdelivr.pai233.top/gh/xzqcsa/ysc@master/xzqzy/18/18.json","name": "👙ysc"},
-{"url": "https://ghgo.xyz/https://raw.githubusercontent.com/yun3695/yun/main/cs.json","name": "👙熊大K"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/fish2018/lib/main/json/xxx.json","name": "👙追梦人lndsqhj"},
-{"url": "https://gitdl.cn/https://raw.githubusercontent.com/bobyangchinanew/Tvbox1/main/zy.json","name": "👙iqiggr"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json","name": "👙翻墙"},
-{"url": "https://api.niaoyun.us/18/jsm.json","name": "👙18+2"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json","name": "👙18+3"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt","name": "👙18+4"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json","name": "👙18av"},
-{"url": "https://gitdl.cn/https://raw.githubusercontent.com/regtostudy/newrechaTVBOX/main/0914-only-sex.json","name": "👙混合资源"},
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/test","name": "👙155"}
-]
+{
+    "urls": [
+        {
+            "name": "「菜菜🥬影视」",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/ys.json"
+        },
+        {
+            "name": "「菜菜🥬采集」",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/cj.json"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/cai/wp.json",
+            "name": "💗菜菜🥬网盘"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+            "name": "💗乐哥👙短剧"
+        },
+        {
+            "url": "https://gitee.com/caicai529180405/caicai/raw/master/cai/ss.json",
+            "name": "🌹菜菜十八"
+        },
+        {
+            "name": "「乐哥👙伦理」",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/lilun.json"
+        },
+        {
+            "name": "「👙虞姬带飞」",
+            "url": "https://kjsc0310.github.io/tvy/s2.json"
+        },
+        {
+            "name": "「👙豆豆」",
+            "url": "https://fastly.jsdelivr.net/gh/qirenzhidao/tvbox18@main/adult.json"
+        },
+        {
+            "name": "「👙ysc」",
+            "url": "https://jsdelivr.pai233.top/gh/xzqcsa/ysc@master/xzqzy/18/18.json"
+        },
+        {
+            "name": "「👙熊大K」",
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/yun3695/yun/main/cs.json"
+        },
+        {
+            "name": "「👙追梦人lndsqhj」",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fish2018/lib/main/json/xxx.json"
+        },
+        {
+            "name": "「👙bobyang」",
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/bobyangchinanew/Tvbox1/main/zy.json"
+        },
+        {
+            "name": "「👙bizhangjie」",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"
+        },
+        {
+            "name": "「4频道」",
+            "url": "https://api.niaoyun.us/18/jsm.json"
+        },
+        {
+            "name": "「5频道」",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json"
+        },
+        {
+            "name": "「6频道」",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt"
+        },
+        {
+            "name": "「7频道」",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json"
+        },
+        {
+            "name": "「8频道」",
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/regtostudy/newrechaTVBOX/main/0914-only-sex.json"
+        },
+        {
+            "name": "「9频道」",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/test"
+        },
+
+        {
+            "url": "https://jsdelivr.pai233.top/gh/wyzy158/ziyingck@master/cj.json",
+            "name": "CJ"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🌙小马线路"
+        }
+    ]
 }
