@@ -53,6 +53,10 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"
         },
         {
+            "name": "「3黑盒频道」",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/T00700/caicai--/main/%E9%BB%91%E8%BD%AF18.txt"
+        },
+        {
             "name": "「4频道」",
             "url": "https://api.niaoyun.us/18/jsm.json"
         },
