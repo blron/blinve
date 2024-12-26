@@ -1,0 +1,637 @@
+﻿{
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+    "wallpaper": "https://深色壁纸.xxooo.cf/", 
+    "sites": [
+       {
+                   
+      "key": "黑软盗窃技术请联系彩虹A2QQ开通3674994758",
+      "name": "🌀黑软🌀电影",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
+       },
+       {
+      "key": "黑软盗窃技术请联系彩虹A3QQ开通3674994758",
+      "name": "🌀黑软🌀星影",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "ua": "okhttp/10.04",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+      "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+       },
+       {
+      "key": "黑软松视开通QQ3674994758",
+      "name": "🌀黑软🌀华视",
+      "type": 1,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "unCategories": [
+        "动漫资讯",
+        "连续剧",
+        "伦理片",
+        "伦理",
+        "福利",
+        "港台三级",
+        "韩国伦理",
+        "日本伦理",
+        "西方伦理",
+        "写真热舞",
+        "动漫资讯",
+        "理论片"
+      ]
+    }, 
+    {
+      "key": "黑软松视开通群853217978",
+      "name": "🌀黑软🌀霹雳",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "unCategories": [
+        "电影",
+        "连续剧",
+        "伦理片",
+        "伦理",
+        "福利",
+        "港台三级",
+        "韩国伦理",
+        "日本伦理",
+        "西方伦理",
+        "写真热舞",
+        "理论片"
+      ]
+    }, 
+    {
+      "key": "请联系群主QQ号853217978",
+      "name": "🌀黑软🌀太黑",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "unCategories": [
+        "电视剧",
+        "电影",
+        "综艺",
+        "动漫",
+        "伦理片",
+        "伦理",
+        "福利",
+        "港台三级",
+        "韩国伦理",
+        "日本伦理",
+        "西方伦理",
+        "写真热舞",
+        "理论片"
+      ]
+    },
+       {
+      "key": "黑软盗窃技术请联系彩虹A5QQ开通1002963836",
+      "name": "🌀黑软🌀融合",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "order_num": 142,
+      "ext": "http://47.99.102.252/json/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B[%E5%90%88].js?type=url&params=http://47.99.102.252/json/%E9%87%87%E9%9B%86.json"
+       },
+       {
+      "key": "黑软盗窃技术请联系彩虹A4QQ开通3674994758",
+      "name": "🌀黑软🌀万曲",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+       },
+       {
+            "key": "黑软盗窃技术开通彩虹节88目QQ联系3674994758",
+            "name": "🌀黑软🌀演唱",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+            "ext": "http://appyt.lyyytv.cn/uploads/tvbox/js/B%E7%AB%99.js"
+       },
+       {
+      "key": "黑软盗窃技术请联系1虹QQ群853217978",
+      "name": "🌀黑软🌀强盗",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://vip.zykbf.com/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "台湾剧",
+        "韩国剧",
+        "欧美剧",
+        "香港剧",
+        "泰国剧",
+        "日本剧",
+        "福利",
+        "纪录片",
+        "动画片",
+        "海外剧",
+        "伦理片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "搞笑",
+        "音乐",
+        "影视",
+        "汽车",
+        "短剧大全"
+      ]
+        },
+        {
+      "key": "黑软盗窃技术请联系2虹QQ群853217978",
+      "name": "🌀黑软🌀套路",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "https://svip.ffzyplay.com/?url=",
+      "categories": [
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "伦理片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+        },
+        {
+      "key": "黑软盗窃技术请联系3虹QQ群853217978",
+      "name": "🌀黑软🌀彩虹",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "playurl": "https://www.ikdmjx.com/?url=",
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "犯罪片",
+        "惊悚片",
+        "古装片",
+        "灾难片",
+        "历史片",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "欧美综艺"
+      ]
+      },
+      {
+      "key": "黑软盗窃技术请联系H虹QQ群853217978",
+      "name": "🌀黑软🌀元素",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+        },
+        {
+
+      "key": "黑软盗窃技术请联系4虹QQ群853217978",
+      "name": "🌸黑软1花🌸VIP🌸",
+      "type": 1,
+      "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+        },
+        {
+
+      "key": "黑软盗窃技术请联系5虹QQ群853217978",
+      "name": "🌸黑软2花🌸VIP🌸",
+      "type": 1,
+      "api": "http://243333.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+        },
+        {
+      "key": "黑软盗窃技术请联系7虹QQ群853217978",
+      "name": "🌸黑软4花🌸VIP🌸",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+        },
+        {
+      "key": "黑软盗窃技术请联系8虹QQ群853217978",
+      "name": "🌸黑软5花🌸VIP🌸",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+        },
+        {
+      "key": "黑软盗窃技术请联系9虹QQ群853217978",
+      "name": "🌸黑软6花🌸VIP🌸",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软7花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系111虹QQ群853217978",
+      "name": "🌸黑软8花🌸VIP🌸",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系12虹QQ群853217978",
+      "name": "🌸黑软9花🌸VIP🌸",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软10花🌸VIP🌸",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软11花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软12花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软13花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软14花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系10虹QQ群853217978",
+      "name": "🌸黑软15花🌸VIP🌸",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+       },
+       {
+      "key": "黑软盗窃技术请联系11虹QQ群853217978",
+      "name": "🎃南瓜┃玉玉",
+      "type": 3,
+      "api": "csp_Nangua",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/spider.jar"
+       },
+       {
+            "key": "黑软盗窃技术请联系12虹QQ群853217978",
+            "name": "🍊在线┃秒播",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+       },
+       {
+      "key": "黑软盗窃技术请联系13虹QQ群853217978",
+      "name": "🍵忍者┃毒盒",
+      "jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/du.jar",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rzys.xyz/"
+         },
+         {
+      "key": "黑软盗窃技术请联系14虹QQ群853217978",
+      "name": "🐭骚火┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "倒序": "1",
+        "分类": "动漫$4#电影$1#电视剧$2#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      },
+      "jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/Xymz.jar;md5;164FD750B200D01F24CCBD2F4EF5B598"
+         },
+         {
+            "key": "黑软盗窃技术请联系15虹QQ群853217978",
+            "name": "🍊在线┃秒播",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "黑软盗窃技术开通彩虹节1目QQ联系853217978",
+            "name": "🌞木星┃多线",
+            "type": 3,
+            "api": "csp_AppSx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+        },
+        {
+            "key": "黑软盗窃技术开通彩虹节2目QQ联系853217978",
+            "name": "💡黑墙┃快播",
+            "type": 3,
+            "api": "csp_AppSx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
+        },
+        {
+            "key": "黑软盗窃技术开通彩虹节3目QQ联系853217978",
+            "name": "💡黑墙┃快播",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+        },
+        {
+            "key": "黑软盗窃技术开通彩虹节5目QQ联系853217978",
+            "name": "💡黑墙┃快播",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+            "ext": "http://ztha.top/catjs/JS/js/量子资源.js"
+        },
+        {
+      "key": "黑软盗窃技术开通彩虹节6目QQ联系853217978",
+      "name": "💡黑墙┃快播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://e3wuwu4.com/api.php/app/"
+       },
+       {
+      "key": "黑软盗窃技术开通彩虹节6目QQ联系853217978",
+      "name": "💡黑墙┃快播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.heli888.cc/api.php/app/"
+     },
+     {
+      "key": "黑软盗窃技术开通彩虹节6目QQ联系853217978",
+      "name": "💡黑墙┃快播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "黑软盗窃技术开通彩虹节9目QQ联系853217978",
+      "name": "💡黑墙┃快播P",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://nnystv.cn/api.php/app/"
+    },
+    {
+      "key": "黑软盗窃技术开通彩虹节6目QQ联系853217978",
+      "name": "💡黑墙┃快播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.nntv.in/api.php/v1.vod"
+    },
+    {
+      "key": "黑软盗窃技术开通彩虹节6目QQ联系853217978",
+      "name": "💡黑墙┃快播",
+      "type": 1,
+      "api": "https://blackwallvideo.online/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+            "key": "黑软盗窃技术开通彩虹节25目QQ联系853217978",
+            "name": "黑软Q群1002963836",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗窃技术开通彩虹节26目QQ联系853217978",
+            "name": "支持抖音分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗窃技术开通彩虹节H4目QQ联系853217978",
+            "name": "支持其他主播分享",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": 黑软盗窃技术开通彩虹节H5目QQ联系853217978",
+            "name": "电视直播随机版",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗窃技术开通彩虹节H6目QQ联系853217978",
+            "name": "电视直播1天1变",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+    },
+    {
+            "key": "黑软盗窃技术开通彩虹节H7目QQ联系853217978",
+            "name": "专业爬虫搞死你们",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+}
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://pan.imotao.com/down.php/d4285bc25896028aabee0ac8f345e45b.txt",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "TV",
+            "type": 0,
+            "url": "https://pan.imotao.com/down.php/d4285bc25896028aabee0ac8f345e45b.txt",
+            "playerType": 1
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "https://pan.imotao.com/down.php/d4285bc25896028aabee0ac8f345e45b.txt",
+            "playerType": 1
+        }
+    ]
+}
